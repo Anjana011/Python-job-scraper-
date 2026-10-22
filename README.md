@@ -2,7 +2,7 @@
 
 Welcome to the **Python Job Listings Scraper** repository! This project is a beginner-friendly web scraping tool built in Python to automatically collect job postings from the Fake Python Jobs website. It extracts key job details and exports them into a structured CSV file for easy analysis.
 
-**GitHub Repository:** [Python Job Listings Scraper]
+**GitHub Repository:** [Python Job Listings Scraper](https://github.com/Anjana011/Python-job-scraper-/tree/Main)
 ---
 
 ## Table of Contents
